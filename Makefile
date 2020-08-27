@@ -1,12 +1,8 @@
-b:
+build:
 	g++ -g -o run main.cpp -lncursesw -lSDL2 -lSDL2_mixer
 
-r:
+run:
 	./run
 
-cl:
+clean:
 	rm run
-
-re:
-	rm run
-	g++ -o run main.cpp -lncursesw -lSDL2 -lSDL2_mixer

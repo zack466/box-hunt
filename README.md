@@ -15,4 +15,5 @@ Compile with `make build` and play with `./run`.
 
 # Credits
 Audio - Juhani Junkala, KSHMR
+
 Everything else - Zachary Huang
